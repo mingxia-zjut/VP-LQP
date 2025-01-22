@@ -28,7 +28,7 @@ Specifically, the dataset is organized into four quadrants as fig shown below.
 
 ### Data Description
 ### 1. NDL train
-NDL train data refers to the data to train Linear Fitting Reliablity Estimator(LFRE)
+NDL train data refers to the data to train Linear Fitting Reliablity Estimator(LFRE), which c
 ### 2. NDL test
 
 ### 3. BSS train
