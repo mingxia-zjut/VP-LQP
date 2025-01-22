@@ -7,7 +7,7 @@
  <a href='#-todo'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
 
-This repository hosts the code, data and model weight of **VP-LQP** 
+This repository hosts the code, data and models weight of **VP-LQP** 
 </div>
 
 ## README
