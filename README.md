@@ -1,6 +1,6 @@
 # Toward Ubiquitous Vision-Augmented Intelligent Communications: A Generalized Loosely Coupled Approach
 <div align='center'>
- Ming Xia, Ziyang Lin, Jiaquan Jin, Yu Hen HU, Zhen Cheng and Kaikai Chi.
+ Ming Xia, Ziyang Lin, Jiaquan Jin, Yu Hen HU, Zhen Cheng and Kaikai Chi
 
  <strong><a href='https://www.zjut.edu.cn/'>Zhejiang University of Technology</a>, <a href='https://www.wisc.edu/'>University of Wisconsin-Madison</a> </strong>
 
