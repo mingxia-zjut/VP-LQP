@@ -13,7 +13,7 @@ This repository hosts the code, data and models weight of **VP-LQP**
 ## README
 
 ### Data
-We have uploaded the data for **Linear Fitting Reliablity Estimator(LFRE)** in `datasets/NDL` directory and data for **Blockage Scene Simulation(BSS)** in `datasets/BSS` directory. It is important to note that there is no videos included in these datasets due to pravicy and convinience concerns. We provide The data has been processed using an Object Detection algorithm (YOLOv7 in this case) as substitutes.
+We have uploaded the data for **Linear Fitting Reliablity Estimator(LFRE)** in `datasets/NDL` directory and data for **Blockage Scene Simulation(BSS)** in `datasets/BSS` directory. It is important to note that there is no videos included in these datasets due to pravicy and convinience concerns. We provide the data has been processed using an Object Detection algorithm (YOLOv7 in this case) as substitutes.
 
 ### Code
 The code for VP-LQP is comming soon...
