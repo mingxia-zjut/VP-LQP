@@ -10,7 +10,7 @@
 
 ## README
 
-This is a preliminary release of the dataset for our paper "Toward Ubiquitous Vision-Augmented Intelligent Communications: A Generalized Loosely Coupled Approach". The data for training and testing the **Network Deployment Learning (NDL)** model are in `datasets/NDL`, and the data for training and testing the **Blockage Scene Simulation (BSS)** model are in `datasets/BSS`. Currently, the visual modality data have been preprocessed to probide only the trace of pedestrian obstacles, allowing result reproducing while protecting the pedestrian's privacy. A more comprehensive version, including documentation, code, etc., will be available soon.
+This is a preliminary release of the dataset for our paper "Toward Ubiquitous Vision-Augmented Intelligent Communications: A Generalized Loosely Coupled Approach". The data for training and testing the **Network Deployment Learning (NDL)** model are in `datasets/NDL`, and the data for training and testing the **Blockage Scene Simulation (BSS)** model are in `datasets/BSS`. Currently, the visual modality data have been preprocessed to provide only the movement traces of pedestrian obstacles, allowing result reproducing while protecting the pedestrians' privacy. A more comprehensive version, including documentation, code, etc., will be available soon.
 
 
 <!-- ## Datasets Introduction
