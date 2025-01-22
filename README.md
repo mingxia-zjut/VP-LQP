@@ -2,20 +2,23 @@
 <div align='center'>
  Ming Xia*, Ziyang Lin, Jiaquan Jin, Yu Hen HU, Zhen Cheng and Kaikai Chi. (*Correspondence)
 
- <strong>School of Computer Science@<a href='https://www.zjut.edu.cn/'>Zhejiang University of Technology</a></strong>, University of Wisconsin-Madison.
+ <strong>School of Computer Science@<a href='https://www.zjut.edu.cn/'>Zhejiang University of Technology</a>, <a href='https://www.wisc.edu/'>University of Wisconsin-Madison.</a> </strong>
 
  <a href='#-todo'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
 
 This repository hosts the code, data and model weight of **VP-LQP** 
-
-<!--
------------
--->
-
 </div>
 
-## Datasets Introduction
+## README
+
+### Data
+We have uploaded the data for **Linear Fitting Reliablity Estimator(LFRE)** in `datasets/NDL` directory and data for **Blockage Scene Simulation(BSS)** in `datasets/BSS` directory. It is important to note that there is no videos included in these datasets due to pravicy and convinience concerns. We provide The data has been processed using an Object Detection algorithm (YOLOv7 in this case) as a substitute
+
+### Code
+The code for VP-LQP is comming soon...
+
+<!-- ## Datasets Introduction
 
 ### Overview
 Aiming at realizing ubiquitous vision-augmented communications in various network deployments, our dataset adopts
@@ -46,4 +49,4 @@ NDL train data refers to the data to train Linear Fitting Reliablity Estimator(L
 
 ## 👉 TODO
 - [ ] Upload the code of NDL and BSS.
-- [ ] 
+- [ ]  -->
