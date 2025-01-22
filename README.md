@@ -2,7 +2,7 @@
 <div align='center'>
  Ming Xia, Ziyang Lin, Jiaquan Jin, Yu Hen HU, Zhen Cheng and Kaikai Chi.
 
- <strong><a href='https://www.zjut.edu.cn/'>Zhejiang University of Technology</a>, <a href='https://www.wisc.edu/'>University of Wisconsin-Madison.</a> </strong>
+ <strong><a href='https://www.zjut.edu.cn/'>Zhejiang University of Technology</a>, <a href='https://www.wisc.edu/'>University of Wisconsin-Madison</a> </strong>
 
  <a href='#-todo'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
