@@ -4,7 +4,7 @@
 
  <strong><a>Zhejiang University of Technology</a>, <a>University of Wisconsin-Madison</a> </strong>
 
- <a href='#-todo'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
+<!-- <a href='#-todo'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> -->
 
 </div>
 
